@@ -14,3 +14,6 @@ is available on all windowing systems.
 In addition to the high level API, this framework also provides several more low level classes
 for interaction with the X Windowing System.
 
+
+
+todo: add window effects
